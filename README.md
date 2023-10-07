@@ -1,2 +1,2 @@
-# msynk2.github.io
+# bitsali.github.io
 my test github.io
